@@ -1,7 +1,7 @@
 '''
 This file is not an actual blockchain. It's hardcoded Python that I used to prepare the design of the actual app which could be found in /py-blockchain/app.py
 
-You can run this in your terminal to play around with it as well. x
+You can run this in your terminal to play around with it as well. 
 '''
 
 # create users class
