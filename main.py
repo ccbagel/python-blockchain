@@ -38,11 +38,5 @@ if(confirm == "Yes" or confirm == "yes"):
     user1.transactor()
     print("You have successfully sent " + amount + " to " + info)
 
-# async def confirmation():
-#     if(confirm == "Yes" or confirm == "yes"):
-#         await user1.transactor()
-#         await asyncio.sleep(5) 
-#         print("You have successfully sent " + amount + " to " + info)
 
-# confirmation()
 
